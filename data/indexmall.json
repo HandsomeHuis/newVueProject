@@ -1,0 +1,107 @@
+{
+	"mallDetails":[
+		{
+			"src":"src/assets/images/im01.jpg",
+			"title":"2018秋装新款港味V领拼色开叉网红毛衣女+高腰阔腿裤套装女时尚两件套潮",
+			"price":200.00,
+			"sc":15
+		},{
+			"src":"src/assets/images/im02.jpg",
+			"title":"2018秋冬新款韩版百搭高弹力针织裙半身裙宽松中长款半身裙子",
+			"price":98.00,
+			"sc":5
+		},{
+			"src":"src/assets/images/im03.jpg",
+			"title":"打包2件49元】秋装t恤女纯色上衣韩版新款内搭半高领同款打底衫女秋冬长袖修身显瘦T恤百搭",
+			"price":39.90,
+			"sc":107
+		},{
+			"src":"src/assets/images/im04.jpg",
+			"title":"仙女暖暖裤可外穿保暖家居裤2018秋冬季新款束脚灯笼裤子宽松大码珊瑚绒睡裤女",
+			"price":56.00,
+			"sc":19
+		},{
+			"src":"src/assets/images/im05.jpg",
+			"title":"毛衣时尚套装秋冬2018新款星星图案中长款毛衣+高腰阔腿牛仔裤网红款慵懒风显瘦休闲两件套女",
+			"price":58.00,
+			"sc":50
+		},{
+			"src":"src/assets/images/im06.jpg",
+			"title":"2018秋冬新款泰国潮牌亮片卡通圆领宽松卫衣+亮片松紧腰阔腿短裤时髦两件套套装女",
+			"price":129.5,
+			"sc":10
+		},{
+			"src":"src/assets/images/im07.jpg",
+			"title":"【优质款】韩国毛呢阔腿裤女2018秋冬新款黑色高腰松紧腰bf加厚宽松裤子复古休闲百搭九分裤",
+			"price":99.86,
+			"sc":175
+		},{
+			"src":"src/assets/images/im08.jpg",
+			"title":" 2018新款秋冬大码显瘦短裤女外穿双面绒韩版宽松显瘦黑色毛呢金丝绒高腰修身阔腿靴裤纯色短裤 ",
+			"price":69.98,
+			"sc":567
+		},{
+			"src":"src/assets/images/im09.jpg",
+			"title":"pu皮短裤女秋冬2018春秋季新款韩版修身加绒加厚皮裤子显瘦高腰靴裤",
+			"price":85.58,
+			"sc":440
+		},{
+			"src":"src/assets/images/im10.jpg",
+			"title":"毛呢阔腿裤女2018秋冬新款宽松大码休闲裤百搭韩版直筒裤显瘦高腰九分呢子裤子 ",
+			"price":63,
+			"sc":1396
+		},{
+			"src":"src/assets/images/im11.jpg",
+			"title":"毛呢阔腿裤女2018秋冬新款宽松大码休闲裤百搭韩版直筒裤显瘦高腰九分呢子裤子 ",
+			"price":88.00,
+			"sc":68
+		},{
+			"src":"src/assets/images/im12.jpg",
+			"title":"毛呢阔腿裤女2018秋冬新款宽松大码休闲裤百搭韩版直筒裤显瘦高腰九分呢子裤子 ",
+			"price":77.23,
+			"sc":523
+		},{
+			"src":"src/assets/images/im13.jpg",
+			"title":"毛呢阔腿裤女2018秋冬新款宽松大码休闲裤百搭韩版直筒裤显瘦高腰九分呢子裤子 ",
+			"price":58.86,
+			"sc":111
+		},{
+			"src":"src/assets/images/im14.jpg",
+			"title":"毛呢阔腿裤女2018秋冬新款宽松大码休闲裤百搭韩版直筒裤显瘦高腰九分呢子裤子 ",
+			"price":99.99,
+			"sc":230
+		},{
+			"src":"src/assets/images/im15.jpg",
+			"title":"毛呢阔腿裤女2018秋冬新款宽松大码休闲裤百搭韩版直筒裤显瘦高腰九分呢子裤子 ",
+			"price":63.28,
+			"sc":288
+		},{
+			"src":"src/assets/images/im16.jpg",
+			"title":"毛呢阔腿裤女2018秋冬新款宽松大码休闲裤百搭韩版直筒裤显瘦高腰九分呢子裤子 ",
+			"price":77,
+			"sc":99
+		},{
+			"src":"src/assets/images/im17.jpg",
+			"title":"毛呢阔腿裤女2018秋冬新款宽松大码休闲裤百搭韩版直筒裤显瘦高腰九分呢子裤子 ",
+			"price":55,
+			"sc":96
+		},{
+			"src":"src/assets/images/im18.jpg",
+			"title":"毛呢阔腿裤女2018秋冬新款宽松大码休闲裤百搭韩版直筒裤显瘦高腰九分呢子裤子 ",
+			"price":63.00,
+			"sc":13
+		},{
+			"src":"src/assets/images/im19.jpg",
+			"title":"毛呢阔腿裤女2018秋冬新款宽松大码休闲裤百搭韩版直筒裤显瘦高腰九分呢子裤子 ",
+			"price":99.09,
+			"sc":300
+		},{
+			"src":"src/assets/images/im20.jpg",
+			"title":"毛呢阔腿裤女2018秋冬新款宽松大码休闲裤百搭韩版直筒裤显瘦高腰九分呢子裤子 ",
+			"price":88.88,
+			"sc":88
+		}
+
+
+	]
+}
